@@ -706,5 +706,3 @@ For issues, questions, or contributions:
 ⭐ Star this repo if you find it useful!
 
 </div>
-
-# clipstash
